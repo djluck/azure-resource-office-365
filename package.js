@@ -1,6 +1,6 @@
 Package.describe({
     name: 'wiseguyeh:azure-resource-office-365',
-    summary: "Enhances the azure-active-directory & accounts-azure-active-directory packages, allowing users to authorize themselves against the office 365 rest APIs",
+    summary: "Allows users to authorize themselves against the office 365 rest APIs",
     version: "0.1.0",
     git: "https://github.com/djluck/azure-resource-office-365"
 });
